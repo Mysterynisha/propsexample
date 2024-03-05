@@ -6,6 +6,7 @@ const App = () => {
 
   return (
     <div className='App'>
+      <h1>Props example!</h1>
     <div className='product'>
       {
      Productdata.map((item,key)=>
